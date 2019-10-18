@@ -1,0 +1,7 @@
+C:\Users\preslav.petkov\source\gitrepos\testGitRepo\testGIT\testGIT\bin\Debug\testGIT.exe.config
+C:\Users\preslav.petkov\source\gitrepos\testGitRepo\testGIT\testGIT\bin\Debug\testGIT.exe
+C:\Users\preslav.petkov\source\gitrepos\testGitRepo\testGIT\testGIT\bin\Debug\testGIT.pdb
+C:\Users\preslav.petkov\source\gitrepos\testGitRepo\testGIT\testGIT\obj\Debug\testGIT.csprojAssemblyReference.cache
+C:\Users\preslav.petkov\source\gitrepos\testGitRepo\testGIT\testGIT\obj\Debug\testGIT.csproj.CoreCompileInputs.cache
+C:\Users\preslav.petkov\source\gitrepos\testGitRepo\testGIT\testGIT\obj\Debug\testGIT.exe
+C:\Users\preslav.petkov\source\gitrepos\testGitRepo\testGIT\testGIT\obj\Debug\testGIT.pdb
