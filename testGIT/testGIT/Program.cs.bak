@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace testGIT
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.ReadLine();
+            Console.WriteLine("I'm the user interface developer!");
+			
+			var a = 3;
+			Console.WriteLine("Now, i'm the math engineer.I created a variable!");
+
+            Console.WriteLine("Final step of implementing my interface engineer functions!");
+        }
+    }
+}
+=======
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace testGIT
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("I'm the user interface developer!");
+			
+	    var a = 3;
+	    Console.WriteLine("Now, i'm the math engineer.I created a variable!");
+
+		Console.WriteLine("I'm not done yet with the maths, i have to develop more");
+        }
+    }
+}
+>>>>>>> 78b75a7fa83b8cc4e5f0ca48b472e2e09d039323
