@@ -15,9 +15,11 @@ namespace testGIT
             Console.WriteLine("az sum tuk!");
             Console.WriteLine("az sum tuk!");
             Console.WriteLine("az sum tuk!");
-            Console.WriteLine("az sum tuk!");
-            Console.WriteLine("az sum tuk!");
-            Console.WriteLine("az sum tuk!");
+            Console.WriteLine("az sum tam!");
+            Console.WriteLine("az sum tam!");
+            Console.WriteLine("az sum tam!");
+            Console.WriteLine("az sum tam!");
+            
         }
     }
 }
