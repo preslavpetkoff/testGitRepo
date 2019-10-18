@@ -10,15 +10,11 @@ namespace testGIT
     {
         static void Main(string[] args)
         {
-
-           
-            Console.WriteLine("I'm the user interface developer!");
-
-
-
-            Console.WriteLine("I'm adding another interface feature at the moment");
-
             Console.ReadLine();
+            Console.WriteLine("I'm the user interface developer!");
+			
+			var a = 3;
+			Console.WriteLine("Now, i'm the math engineer.I created a variable!");
         }
     }
 }
