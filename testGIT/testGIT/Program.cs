@@ -27,6 +27,10 @@ namespace testGIT
 
             Console.WriteLine(result.ToString());
 
+            result = 256 - 128;
+            string resultasastring = result.ToString();
+            Console.WriteLine("ebasi string-a: " + resultasastring);
+
         }
     }
 }
