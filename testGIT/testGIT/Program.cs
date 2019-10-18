@@ -18,6 +18,15 @@ namespace testGIT
             Console.WriteLine("az sum tuk!");
             Console.WriteLine("az sum tuk!");
             Console.WriteLine("az sum tuk!");
+
+
+            int a = 5;
+            a = 6;
+
+            int result = a + 12;
+
+            Console.WriteLine(result.ToString());
+
         }
     }
 }
