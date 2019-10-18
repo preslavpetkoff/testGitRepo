@@ -15,6 +15,8 @@ namespace testGIT
 			
 			var a = 3;
 			Console.WriteLine("Now, i'm the math engineer.I created a variable!");
+
+            Console.WriteLine("Final step of implementing my interface engineer functions!");
         }
     }
 }
