@@ -10,16 +10,14 @@ namespace testGIT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I'm the user interface developer!");
-			
-	    var a = 3;
-	    Console.WriteLine("Now, i'm the math engineer.I created a variable!");
+            Console.WriteLine("az sum tuk!");
 
-		Console.WriteLine("I'm not done yet with the maths, i have to develop more");
-
-            Console.WriteLine("I'm done with the job as an interface engineer!");
-		
-		Console.WriteLine("I'm not done yet with the maths, i have to develop more again");
+            Console.WriteLine("az sum tuk!");
+            Console.WriteLine("az sum tuk!");
+            Console.WriteLine("az sum tuk!");
+            Console.WriteLine("az sum tuk!");
+            Console.WriteLine("az sum tuk!");
+            Console.WriteLine("az sum tuk!");
         }
     }
 }
